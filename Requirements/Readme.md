@@ -4,7 +4,7 @@
 # Cost and Features
 * Will provide series as well as parallel combination of resistors suitable for the required odd value.
 # SWOT Analysis
-
+![SWOT analysis](https://github.com/261833/Prachiproject/blob/main/Requirements/SWOT%20analysis.png)
 # 4W's and 1'H
 ## Who:
 * Circuit designers
