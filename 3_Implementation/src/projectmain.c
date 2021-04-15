@@ -368,9 +368,3 @@ int main()
   select_value(gv);
   return 0;
 }
-
-
-
-
-// check err values for parallel
-// add values which give 0 error
