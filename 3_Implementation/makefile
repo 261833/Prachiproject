@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Prachiproject
+PROJECT_NAME = miniproject
 # Output directory
 BUILD = build
 
