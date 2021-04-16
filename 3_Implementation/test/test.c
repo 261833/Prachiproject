@@ -2,7 +2,7 @@
 #include "unity_internals.h"
 #include <project.h>
 
-void test_FindIndex();
+void test_FindIndex(void);
 
 
 /* Modify these two lines according to the project */
