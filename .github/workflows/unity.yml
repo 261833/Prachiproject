@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_Implementation/ test
+      - uses: actions/checkout@v2
+      - name: build
+        run: make -C 3_Implementation/
+      - name: test
+        run: make test -C 3_Implementation/
